@@ -1,3 +1,3 @@
-# mycodes
-
-Hi I am pratik Chorghe. Its my first  repo
+Welcome to MyCodes
+Name: Pratik Chorghe
+Mail:Pratik@123.
